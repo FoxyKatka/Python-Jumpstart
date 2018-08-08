@@ -1,2 +1,2 @@
-# Python-Jumpstart
+# Python-Practice
 Practice writing Python
